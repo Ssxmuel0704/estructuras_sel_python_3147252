@@ -33,3 +33,6 @@ Jerarquía de predencia
 #ejemplo 4: Jerarquía de operadores:
 y = False and not True or False
 print ("El resultado de operar con jerarquía de operadores es" ,y)
+
+#ejemplo 5: Operadores relacionales y logicos:
+y = not 3 > 4 and 4 == 4 or 3 < 2
