@@ -7,4 +7,8 @@ Acorde a las tablas de Verdad
 '''
 #Ejemplo 1: operador not:
 y = not True
-print ("El resultado de operar con not es" ,y)
+print ("El resultado de operar con not es" , y)
+
+#Ejemplo 2: operador and:
+y = True and True
+print("El resultado de operar con and es" , y)
